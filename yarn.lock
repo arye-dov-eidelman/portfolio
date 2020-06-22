@@ -4540,6 +4540,11 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
+fix-margin-usage@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/fix-margin-usage/-/fix-margin-usage-0.0.2.tgz#17319eebb1c91a196afef7891ca2f793a4dbadc6"
+  integrity sha512-JAYw0DRUBjDiwdeEKqPn/zyIxx/h8Z851tey6j3WpMFLQeG7YdJnji4Hg7ixONQnaIBClLHZXA25KPi8xBIYew==
+
 flat-cache@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/flat-cache/-/flat-cache-2.0.1.tgz#5d296d6f04bda44a4630a301413bdbc2ec085ec0"
