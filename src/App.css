@@ -1,4 +1,17 @@
-.auto-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(auto, 24em));;
+@media (min-width: 40em) {
+  .stretchable > * {
+    vertical-align: top;
+    display: inline-block;
+  }
+  
+  .stretchable > *:nth-child(1) {
+    float: left;
+    width: 20rem;
+    padding-right: 20px;
+  }
+}
+
+h1 {
+  padding-right: 50%;
+  text-align: center;
 }
